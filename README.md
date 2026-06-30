@@ -10,8 +10,8 @@ with stochastic driving.
 The notebooks in this repository simulate classical kicked rotor lattices under 
 periodic kicking, nearest-neighbour coupling, and (in later notebooks) momentum 
 dissipation and stochastic dipolar driving. Kinetic energy per rotor is tracked over 
-time to identify the prethermal plateau — a long-lived quasi-stationary regime preceding 
-eventual thermalization — and its dependence on coupling strength, lattice geometry, and 
+time to identify the prethermal plateau which is a long-lived quasi-stationary regime preceding 
+eventual thermalization, and its dependence on coupling strength, lattice geometry, and 
 dissipation. In the dissipative, stochastically-driven setting, the chain's stroboscopic 
 momentum dynamics are also compared against a reference single-rotor trajectory to 
 quantify synchronization behavior via a momentum variance and an order parameter.
